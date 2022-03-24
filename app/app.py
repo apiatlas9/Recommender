@@ -1,13 +1,11 @@
-import sys
-
-sys.path.append('/usr/local/lib/python2.7/site-packages')
-
 import streamlit as st
 import io
 import numpy as np
 import pandas as pd
 from PIL import Image, ImageDraw
 import os
+import sys
+sys.path.append('/usr/local/lib/python2.7/site-packages')
 import cv2
 import time
 import os
