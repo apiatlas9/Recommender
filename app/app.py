@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image, ImageDraw
 import os
-import opencv-python
+import opencv
 import time
 import os
 import glob
