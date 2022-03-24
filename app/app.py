@@ -4,7 +4,8 @@ import numpy as np
 import pandas as pd
 from PIL import Image, ImageDraw
 import os
-import cv2
+# import cv2
+import opencv-python-headless
 import time
 import os
 import glob
