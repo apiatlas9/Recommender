@@ -1,3 +1,8 @@
+https://download.pytorch.org/whl/cpu/torch-0.3.1-cp27-cp27mu-linux_x86_64.whl ; sys_platform == "linux2"
+torchvision == 0.2.2
+future
+easydict
+numpy
 opencv-python-headless==4.5.4.60
 scikit-image==0.19.0
 tensorflow==2.7.0
